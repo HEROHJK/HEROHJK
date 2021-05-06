@@ -15,3 +15,5 @@
 ![](https://img.shields.io/badge/%20-RxSwift-brightgreen?logo=swift&logoColor=white&style=for-the-badge&color=B7178C)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herohjk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herohjk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
