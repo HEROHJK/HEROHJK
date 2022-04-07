@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Swift-brightgreen?logo=swift&logoColor=white&style=for-the-badge&color=FA7343)
 ![](https://img.shields.io/badge/-macOS-brightgreen?logo=macos&logoColor=white&style=for-the-badge&color=000000)
 
-### 2019 ~ 2021
+### 2019 ~
 ![](https://img.shields.io/badge/-Swift-brightgreen?logo=swift&logoColor=white&style=for-the-badge&color=FA7343)
 ![](https://img.shields.io/badge/%20-RxSwift-brightgreen?logo=swift&logoColor=white&style=for-the-badge&color=B7178C)
 
